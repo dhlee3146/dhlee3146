@@ -7,7 +7,7 @@ My major is English education.
 :cactus:  19, mar, 2024~
 
 I wanna be goot at coding. 
-My individual goal is to make a simple text game.
+My personal goal is to make a simple text game.
 
 
 
