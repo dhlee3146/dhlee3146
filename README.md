@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm learnning python in Digital literacy class.  
+I'm learnning python in Digital Literacy Class.  
 My major is English education.  
 :cactus:  19, mar, 2024~
 
