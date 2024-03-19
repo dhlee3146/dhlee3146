@@ -2,10 +2,11 @@
 
 I'm learnning python in Digital Literacy Class.  
 My major is English education.  
+### This is my front page.  
 :cactus:  19, mar, 2024~
 
-### This is my front page.  
-I wanna be goot at coding. My individual goal is to make a simple text game.
+I wanna be goot at coding. 
+My individual goal is to make a simple text game.
 
 
 
