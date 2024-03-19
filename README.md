@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm learnning python in Digital literacy class. :cactus:  
+My major is English education.  
+# This is my front page.  
+I wanna be goot at coding. My individual goal is to make a simple text game.
+
+
+
 <!--
 **dhlee3146/dhlee3146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
