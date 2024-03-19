@@ -3,9 +3,9 @@
 
 I'm learnning python in Digital Literacy Class.  
 My major is English education.  
-
-:cactus:  19, mar, 2024~
-
+---
+* :cactus:  19, mar, 2024~ *
+---
 I wanna be goot at coding. 
 My personal goal is to make a simple text game.
 
