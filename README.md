@@ -9,6 +9,7 @@ My major is English education.
 I wanna be goot at coding. 
 My personal goal is to make a simple text game.
 - 	:alien: Fun fact: Aliens cannot swim in the ocean because their body composition is different from that of Earth.
+- 	🍀Fun fact:
 
 
 
