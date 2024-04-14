@@ -16,8 +16,8 @@ First, keep an eye out for **specific** activities that you are really intereste
 
 Some of you might find it hard to **discover** what you really like. Then stick to your school work and pay close attention to school subjects you are better at. 
 
-Take your time, and keep doing what you feel like doing for the next thirty days. My experience tells me that thirty days is just about the right amount of time to plant the seed of a new life passion. 
 
-So why not begin something you think you will like, and give it a shot for the next thirty days? 
-
-As the famous saying goes, “Shoot for the moon. Even if you miss, you’ll land among the stars.”
+- Realize 깨닫다, 알아차리다, 인식[자각]하다
+- photography 사진[촬영]술, 사진 찍기[촬영]
+- specific 구체적인, 명확한, 분명한
+- discover 발견하다
