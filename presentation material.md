@@ -1,6 +1,4 @@
-Lesson 1 
-
-It Starts from Inside of Me 
+### It Starts from Inside of Me 
 
 Do you find it difficult to face the new school year? If so, you are not alone. Why don’t you listen to what these two students have to say about their new school life and what four living books would like to tell them? 
 
