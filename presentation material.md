@@ -10,13 +10,13 @@ I want to do well as a high school student, and I’m more than determined to do
 Director of Photography 
 When I started high school, I wanted to do well but nothing went right. I had troubles with my friends and my grades suffered. I had no idea what I really wanted to do. I wanted to change, and started to reflect on myself. 
 
-Realizing that I loved taking photos, I tried doing that for a month. I joined a photography club. I went from looking at pictures all day to actually taking them. Before long I found out what I liked and dreamed of becoming.
+**Realizing** that I loved taking photos, I tried doing that for a month. I joined a **photography** club. I went from looking at pictures all day to actually taking them. Before long I found out what I liked and dreamed of becoming.
 
 Why don’t you try to find something that you love to do, and then get started right away?  
 
-First, keep an eye out for specific activities that you are really interested in. Make sure you are ready to take advantage of any chances available to you: sign up for programs, talk with specialists, and keep getting involved. Then stick your toe in the water and find out what your true passions are. 
+First, keep an eye out for **specific** activities that you are really interested in. Make sure you are ready to take advantage of any chances available to you: sign up for programs, talk with specialists, and keep getting involved. Then stick your toe in the water and find out what your true passions are. 
 
-Some of you might find it hard to discover what you really like. Then stick to your school work and pay close attention to school subjects you are better at. 
+Some of you might find it hard to **discover** what you really like. Then stick to your school work and pay close attention to school subjects you are better at. 
 
 Take your time, and keep doing what you feel like doing for the next thirty days. My experience tells me that thirty days is just about the right amount of time to plant the seed of a new life passion. 
 
