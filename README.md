@@ -11,6 +11,14 @@ My personal goal is to make a simple text game.
 - 	:alien: Fun fact: Aliens cannot swim in the ocean because their body composition is different from that of Earth.
 - 	🍀Fun fact:
 
+#DLW04
++number, string, list, dictionary
+https://colab.research.google.com/github/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb
+
+
+#DLW02A
++input, output, variables, operators, function
+https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02A.ipynb
 
 
 <!--
